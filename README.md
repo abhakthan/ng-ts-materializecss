@@ -1,4 +1,4 @@
-# Angular TypeScript Jspm template
+# Angular TypeScript Jspm Materialize template
 
 #### Build
 
